@@ -1,0 +1,39 @@
+JavaScript MA03
+----------------
+Level 2
+
+1. In your own words, describe what JavaScript Code Style is.
+
+    The code style is meant to be readable and tidy as possible. Being an object oriented language with functions and what not, proper indentations and spacing is not only practical but required in some situations, as a line break can make a block of code have different "functions".
+
+2. What is a Regular Expression?
+
+    Regex is a type of object that detects patterns to be performed.
+
+3. What does the .random() method do?
+
+    Returns a value between 1 and 0 randomly
+
+4. What does the .sort() method do?
+
+    Makes the elements of an array stay sorted
+
+5. What does the .reverse() method do?
+
+    Turns the order of an array, starts at the end and end at the beginning.
+
+6. List two examples of bad JavaScript code.
+
+    Bad practice to use == (double equal signs) and null value is considered an object.
+
+7. What data types can a JSON object contain?
+
+    Strings, Objects, Arrays, Boolean, Numbers and Null.
+
+8. What is minifying JavaScript Code?
+
+    To reduce as much code to optimize loadspeed. This is done by removing comments, whitespace and optimizes common programming patterns.
+
+9. What is a global variable?
+
+    It is variables accessable from anywhere in the code. Can be easily overwriten.
